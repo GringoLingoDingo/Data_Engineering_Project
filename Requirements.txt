@@ -1,9 +1,7 @@
-fastapi
-uvicorn[standard]
-pandas
-numpy
-scipy
+Flask
 scikit-learn
-catboost
+pandas
 joblib
-python-dotenv
+numpy
+gunicorn
+catboost
